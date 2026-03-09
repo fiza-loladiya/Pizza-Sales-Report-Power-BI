@@ -2,6 +2,8 @@
 
 ![Home Dashboard](Homee.png)
 
+This page provides a complete overview of business performance using KPIs, order trends, category sales distribution, pizza size contribution, and total pizzas sold by category.
+
 ## 📌 Project Overview
 
 Running a food business without data is basically guessing with extra toppings.
@@ -19,6 +21,7 @@ Instead of looking at scattered sales numbers, this dashboard gives one complete
 
 ![Best and Worst Seller Dashboard](Best%20and%20Worst.png)
 
+This page focuses on product-level performance by showing top and bottom 5 pizzas based on revenue, quantity sold, and total orders.
 
 ## 🌍 Situation
 
@@ -147,30 +150,12 @@ This dashboard can support business decisions in several ways:
 - **Power BI**
 - **Power Query**
 - **DAX**
-- **Data Modeling**
 - **KPI Reporting**
 - **Interactive Dashboard Design**
 - **Trend Analysis**
 - **Product Performance Analysis**
 - **Business Insight Generation**
 
-
-## 🖥️ Dashboard Pages
-
-### **Page 1: Home Dashboard**
-This page provides a complete overview of business performance using KPIs, order trends, category sales distribution, pizza size contribution, and total pizzas sold by category.
-
-### **Page 2: Best/Worst Seller Analysis**
-This page focuses on product-level performance by showing top and bottom 5 pizzas based on revenue, quantity sold, and total orders.
-
-
-## 📷 Screenshots
-
-### Home Dashboard
-![Pizza Sales Dashboard Home](assets/pizza-sales-home.png)
-
-### Best/Worst Seller Dashboard
-![Pizza Sales Dashboard Best Worst Seller](assets/pizza-sales-best-worst.png)
 
 ## 🚀 Conclusion
 
