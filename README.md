@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 
+![Home Dashboard](Homee.png)
+
 Running a food business without data is basically guessing with extra toppings.
 
 This project was built to analyze pizza sales performance and turn raw transaction data into a clear, interactive business dashboard using **Power BI**. The goal was to understand how the business was performing across revenue, orders, product categories, pizza sizes, and top/bottom-selling items.
@@ -14,6 +16,7 @@ Instead of looking at scattered sales numbers, this dashboard gives one complete
 - Which pizzas are performing best and worst?
 - How can the business improve menu strategy and sales decisions?
 
+![Best and Worst Seller Dashboard](Best%20and%20Worst.png)
 
 ## 🌍 Situation
 
