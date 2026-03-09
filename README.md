@@ -1,8 +1,8 @@
 # 🍕 Pizza Sales Report Dashboard
 
-## 📌 Project Overview
-
 ![Home Dashboard](Homee.png)
+
+## 📌 Project Overview
 
 Running a food business without data is basically guessing with extra toppings.
 
