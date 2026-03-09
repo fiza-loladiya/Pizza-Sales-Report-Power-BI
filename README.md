@@ -16,7 +16,9 @@ Instead of looking at scattered sales numbers, this dashboard gives one complete
 - Which pizzas are performing best and worst?
 - How can the business improve menu strategy and sales decisions?
 
+
 ![Best and Worst Seller Dashboard](Best%20and%20Worst.png)
+
 
 ## 🌍 Situation
 
