@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Report Dashboard
 
-![Home Dashboard](Homee.png)
+![Home Dashboard](Homee.png) 
 
 This page provides a complete overview of business performance using KPIs, order trends, category sales distribution, pizza size contribution, and total pizzas sold by category.
 
